@@ -28,7 +28,7 @@ Comparison of results: Transfer learning vs. from scratch.
 Limitations and potential areas of improvement.
 Colab Notebook:
 
-Create a Google ColabLinks to an external site. notebook that contains all the code used for your analysis.
+Create a Google Colab. notebook that contains all the code used for your analysis.
 The notebook should be well-commented, ensuring that steps are clear and replicable.
 Include sections for data loading, preprocessing, model definition, training, prediction, and evaluation.
 Ensure the notebook can be executed seamlessly from start to finish.
